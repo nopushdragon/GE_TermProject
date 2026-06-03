@@ -1,0 +1,57 @@
+# Blender 5.1.0 MTL File: 'None'
+# www.blender.org
+
+newmtl blinn1SG
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/blinn1SG_baseColor.jpeg
+map_Bump -bm 1.000000 C:/blinn1SG_normal.jpeg
+
+newmtl blinn2SG
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd C:/blinn2SG_baseColor.png
+map_d C:/blinn2SG_baseColor.png
+map_Bump -bm 1.000000 C:/blinn2SG_normal.jpeg
+
+newmtl blinn3SG
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/blinn3SG_baseColor.jpeg
+map_Bump -bm 1.000000 C:/blinn3SG_normal.jpeg
+
+newmtl blinn4SG
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.256526 0.256526 0.256526
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/blinn4SG_baseColor.jpeg
+map_Bump -bm 1.000000 C:/blinn4SG_normal.jpeg
+
+newmtl blinn5SG
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/blinn5SG_baseColor.jpeg
+map_Bump -bm 1.000000 C:/blinn5SG_normal.jpeg
