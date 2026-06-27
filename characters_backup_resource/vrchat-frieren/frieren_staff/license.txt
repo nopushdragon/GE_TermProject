@@ -1,0 +1,11 @@
+Model Information:
+* title:	Frieren staff
+* source:	https://sketchfab.com/3d-models/frieren-staff-4fe23d46c9ab4b8a8f118136ee753329
+* author:	nataleesha (https://sketchfab.com/nataleesha_kissinger)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Frieren staff" (https://sketchfab.com/3d-models/frieren-staff-4fe23d46c9ab4b8a8f118136ee753329) by nataleesha (https://sketchfab.com/nataleesha_kissinger) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
