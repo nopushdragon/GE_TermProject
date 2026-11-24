@@ -1,0 +1,5 @@
+*.uasset -filter -diff -merge -text
+*.umap -filter -diff -merge -text
+*.fbx -filter -diff -merge -text
+*.wav -filter -diff -merge -text
+*.mp4 -filter -diff -merge -text
