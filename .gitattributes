@@ -3,3 +3,4 @@
 *.fbx -filter -diff -merge -text
 *.wav -filter -diff -merge -text
 *.mp4 -filter -diff -merge -text
+/Content/Animated_Nebulas_Starter_Pack/Planet_System/Textures/T_HDRIs/TC_Skybox_01.uasset filter=lfs diff=lfs merge=lfs -text
